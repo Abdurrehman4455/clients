@@ -26,7 +26,7 @@ const HeroSection = () => {
             </a>
             <a
               href="#achievements"
-              className="bg-gray-700 hover:bg-gray-800 text-white px-6 py-3 rounded-md text-lg transition duration-300"
+              className="bg-white hover:bg-gray-800 text-black px-6 py-3 rounded-md text-lg transition duration-300"
             >
               View Achievements
             </a>
